@@ -1,1 +1,1 @@
-print("Hello word!")
+print("Olá, " + input ("Digite seu nome: ") + "!" + " Seja bem vindo ao meu GitHub!")
